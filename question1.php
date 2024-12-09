@@ -1,4 +1,5 @@
 <?php
+//test
 $array = [["apple", "banana"],["cherry", "date"]];
 for ($i = 0; $i < count($array); $i++) {
     for ($j = 0; $j < count($array[$i]); $j++) {
