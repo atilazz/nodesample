@@ -10,7 +10,7 @@
             width: 45%;
             margin: 20px auto;
         }
-        table, th, td {
+        table, th, tr {
             border: 1px solid black;
             text-align: center;
             padding: 8px;
