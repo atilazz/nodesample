@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>اعداد اول ضرب در 3 میشود</title>
+    <title>اعداد اول ضرب در 4 میشود</title>
     <style>
         table {
             border-collapse: collapse;
