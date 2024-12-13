@@ -1,4 +1,4 @@
-# Logs #3 yes noo
+# Logs #3 yes no
 *.log
 npm-debug.log*
 yarn-debug.log*
