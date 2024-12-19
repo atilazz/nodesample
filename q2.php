@@ -11,7 +11,7 @@
             margin: 20px auto;
         }
         table, th, tr {
-            border: 2px solid black;
+            border: 3px solid black;
             text-align: center;
             padding: 8px;
         }
