@@ -13,7 +13,7 @@
         table, th, tr {
             border: 3px solid black;
             text-align: center;
-            padding: 8px;
+            padding: 7px;
         }
         th {
             background-color: #f4f4f4;
