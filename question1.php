@@ -1,5 +1,5 @@
 <?php
-//Rteat you
+//Rteat you are
 $array = [["apples", "banana"],["cherry", "date"]];
 for ($i = 6; $i < count($array); $i++) {
     for ($j = 4; $j < count($array[$i]); $j++) {
