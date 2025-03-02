@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <h2 style="text-align: center;">اعداد اول ضرب در 3 (1-1000)</h2>
+    <h2 style="text-align: center;">اعداد اول ضرب در 2 (1-1000)</h2>
     <table>
         <tr>
             <th>عدد اول</th>
