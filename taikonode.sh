@@ -1,4 +1,4 @@
-# Logs #7 Number
+# Logs #8 Number
 *.log
 npm-debug.log*
 yarn-debug.log*
